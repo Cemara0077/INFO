@@ -1,53 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="INFOKU">
-    <display-name lang="en">INFOKU</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/88/.info_logo.png" />
-  </channel>
-  <channel id="MAVI">
-    <display-name lang="en">MAVI</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="2CHN">
-    <display-name lang="en">2CHN</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
-    <url>http://www.astro.com.my</url>
+    <display-name lang="en">-</display-name>
   </channel>
   <channel id="DRAMAKU">
-    <display-name lang="en">DRAMAKU</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" />
-    <url>http://www.astro.com.my</url>
+    <display-name lang="en">-</display-name>
   </channel>
-  <programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="INFOKU">
-    <title lang="en">INFO TOKEN ANDA</title>
+  <channel id="2CHN">
+    <display-name lang="en">-</display-name>
+  </channel>
+  <channel id="MAVI">
+    <display-name lang="en">-</display-name>
+  </channel>
+  <programme start="20221014000000 +0000" stop="20221014235900 +0000" channel="INFOKU">
+  <title lang="en">INFO TOKEN ANDA</title>
     <desc lang="en">Sila Baca Bila tarikh expired token </desc>
-    <category lang="en">General</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
   </programme>
-  <programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="MAVI">
-    <title lang="en">Movie Best</title>
-    <desc lang="en"Movie Terbaik</desc>
-    <category lang="en">Movie</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
+  <programme start="20221015000000 +0000" stop="20231015235900 +0000" channel="INFOKU">
+  <title lang="en">INFO TOKEN ANDA</title>
+    <desc lang="en">Sila Baca Bila tarikh expired token </desc>
   </programme>
-<programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="2CHN">
-    <title lang="en">Rancangan Menarik</title>
-    <category lang="en">General</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
- <programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="DRAMAKU">
-    <title lang="en">Drama Sangat Terr</title>
+  <programme start="20221015000000 +0000" stop="20231016235900 +0000" channel="DRAMAKU">
+  <title lang="en">Drama Sangat Terr</title>
     <desc lang="en">Drama terbaik khas untuk anda</desc>
-    <category lang="en">Drama</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
   </programme>
-  </tv>
+  <programme start="20221015000000 +0000" stop="20231017235900 +0000" channel="2CHN">
+    <title lang="en">Rancangan Menarik</title>
+  </programme>
+  <programme start="20221015000000 +0000" stop="20231018235900 +0000" channel="MAVI">
+       <title lang="en">Movie Best</title>
+    <desc lang="en"Movie Terbaik</desc>
+  </programme>
+ </tv>
