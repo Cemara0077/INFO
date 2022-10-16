@@ -27,7 +27,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20221015020000 +0000" stop="20231015020500 +0000" channel="MAVI">
+  <programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="MAVI">
     <title lang="en">Movie Best</title>
     <desc lang="en"Movie Terbaik</desc>
     <category lang="en">Movie</category>
@@ -35,14 +35,14 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20221015020000 +0000" stop="20231015023000 +0000" channel="2CHN">
+<programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="2CHN">
     <title lang="en">Rancangan Menarik</title>
     <category lang="en">General</category>
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20221015023000 +0000" stop="20231015030000 +0000" channel="DRAMAKU">
+ <programme start="20221015000000 +0000" stop="20231015020000 +0000" channel="DRAMAKU">
     <title lang="en">Drama Sangat Terr</title>
     <desc lang="en">Drama terbaik khas untuk anda</desc>
     <category lang="en">Drama</category>
